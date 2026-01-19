@@ -1,4 +1,4 @@
-import ProductApi from "./ProductApi.js";
+import ProductApi from "./productApi.js";
 import ProductUI from "./productUi.js";
 import FoodLogService from "./foodLogService.js";
 
